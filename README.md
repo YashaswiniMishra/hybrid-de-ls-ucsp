@@ -1,7 +1,8 @@
 # hybrid-de-ls-ucsp
-1.	Project Title & Description
+###ON SOLVING UNCERTAINITIES COVERING SALESMAN PROBLEM USING DIFFERENTIAL EVOLUTION AND LOCAL SEARCH
 Project Overview:
 This project solves a generalized logistics optimization problem where a salesman does not need to visit every city — instead, each city must simply be within a coverage radius R of a visited facility. Under real-world uncertainty (traffic, disasters, detours), exact distances are replaced with fuzzy numbers to model this unpredictability.
+
 Description:
 # UCSP-DE: Uncertain Covering Salesman Problem using Differential Evolution
 A metaheuristic optimization framework solving the **Covering Salesman Problem (CSP)**
